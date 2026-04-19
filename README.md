@@ -238,11 +238,7 @@ Screenshots demonstrating system results are available in the `screenshots/` fol
 
 ## AI Tools Disclosure
 
-Generative AI tools were used selectively for:
-- Documentation drafting and refinement
-- Troubleshooting guidance and explanations
-
-All system design, configuration, coding, and deployment activities were implemented and verified by the student.
+I used Gemini Pro for code generation and Microsoft Copilot for project documentation and checklist management. I also leveraged AI for troubleshooting. All system design, configuration, and deployment activities were implemented and verified by me personally.
 
 ---
 

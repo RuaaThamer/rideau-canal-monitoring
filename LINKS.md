@@ -21,4 +21,4 @@ All required screenshots demonstrating system functionality (Phases 1–3), arch
 - **Description:** This repository contains the web dashboard application for the Rideau Canal Real‑Time Monitoring project. It implements a Node.js and Express backend API that retrieves aggregated sensor data from Azure Cosmos DB and serves it to a responsive frontend interface. The dashboard presents real‑time ice safety status, environmental measurements, and location‑based summaries for multiple canal segments, and is deployed to Azure App Service with continuous integration and deployment using GitHub Actions.
 ## Demo
 
-- **Video Demo:** [YouTube]
+- **Video Demo:** https://youtu.be/Qvoy9h-YGWE
